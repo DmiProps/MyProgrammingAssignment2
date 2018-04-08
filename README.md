@@ -1,2 +1,2 @@
-# MyProgrammingAssignment2
-My programming assignment 2
+# Programming-Assignment-2
+Programming Assignment 2
